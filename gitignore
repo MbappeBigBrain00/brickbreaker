@@ -1,0 +1,25 @@
+# === UNITY STANDARD GITIGNORE ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+sysinfo.txt
+
+# IDE / project files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.pidb
+*.booproj
+
+# OS files
+.DS_Store
+Thumbs.db
